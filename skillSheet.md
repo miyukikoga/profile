@@ -18,16 +18,21 @@
 - Java
   - 実務経験 5 年
   - フレームワーク Spring, Seasar2
+  - 使用バージョンは Java SE 8 まで
   - Spring を使用したアプリケーションの作成を一から経験
   - JSP を使用した動的ページの生成
 - PHP
   - 実務経験 3 年
   - フレームワーク Zend Framework, FuelPHP
+  - 使用バージョンは PHP 5.6 まで
 - JavaScript
   - 実務経験 3 年
 - TypeScript
   - 実務経験 2 年
   - アプリケーションの作成を一から経験
+- Node.js
+  - 実務経験 2 年
+  - AWS Lambda で使用
 - Dart(Flutter)
   - 実務経験 1 年
   - アプリケーションの作成を一から経験
@@ -51,6 +56,7 @@
 - その他
   - React
     - Kintone カスタマイズで使用
+    - 小さなアプリケーションのため ローカルステート による状態管理を行う
     - [公式のチュートリアル](https://ja.reactjs.org/tutorial/tutorial.html)を一通り対応
   - Docker、Vagrant、Ansible、Jenkins などを業務で使用
   - チームビルディング
