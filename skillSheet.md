@@ -53,11 +53,15 @@
 - CI/CD
   - GitHub Actions を使用して自動テスト、自動デプロイを構築
   - Azure Pipelines の運用、保守
+- React
+  - 実務経験 2 年
+  - Kintone カスタマイズで使用
+  - 小さなアプリケーションのため ローカルステート による状態管理を行う
+  - [公式のチュートリアル](https://ja.reactjs.org/tutorial/tutorial.html)を一通り対応
+- Vue.js
+  - 実務経験 半年
+  - 既存のコードに対して機能追加を行う
 - その他
-  - React
-    - Kintone カスタマイズで使用
-    - 小さなアプリケーションのため ローカルステート による状態管理を行う
-    - [公式のチュートリアル](https://ja.reactjs.org/tutorial/tutorial.html)を一通り対応
   - Docker、Vagrant、Ansible、Jenkins などを業務で使用
   - チームビルディング
     - 心理的安全性、HRT、コードレビューの導入などを行う
@@ -229,6 +233,7 @@ GitHub Packages を使用した社内向けライブラリの作り方につい�
 - JavaScript
 - Jest
 - React
+- Vue.js
 
 ### 使用した外部サービス
 
