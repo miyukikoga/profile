@@ -117,7 +117,7 @@ SFA の開発および生成 AI を活用した支援ツールの開発を通じ
 - アプリケーション: Next.js（App Router）、TypeScript
 - データベース: PlanetScale
 - デプロイプラットフォーム: Vercel
-- テスト: Vitest
+- テスト: Testing Library
 - CI/CD: Vercel
 - 認証・認可: Clerk
 - その他: OpenAI API、S3
@@ -148,7 +148,7 @@ Next.js の 国際化対応を行いました。[Internationalization](https://n
 - アプリケーション: Next.js（App Router）、TypeScript
 - データベース: PlanetScale
 - デプロイプラットフォーム: Vercel
-- テスト: Vitest
+- テスト: Vitest、Testing Library
 - CI/CD: Vercel
 - 認証・認可: Clerk
 - その他: OpenAI API、S3
@@ -183,7 +183,7 @@ Next.js の 国際化対応を行いました。[Internationalization](https://n
 - アプリケーション: Next.js（App Router）、TypeScript
 - データベース: PlanetScale、Pincone
 - デプロイプラットフォーム: Vercel
-- テスト: Vitest
+- テスト: Vitest、Testing Library
 - CI/CD: Vercel
 - 認証・認可: Clerk
 - その他: OpenAI API、S3
