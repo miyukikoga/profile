@@ -120,7 +120,7 @@ SFA の開発および生成 AI を活用した支援ツールの開発を通じ
 - テスト: Testing Library
 - CI/CD: Vercel
 - 認証・認可: Clerk
-- その他: OpenAI API、S3
+- その他: OpenAI API、S3、Kysely
 
 #### 取り組んだ課題や成果
 
@@ -151,7 +151,7 @@ Next.js の 国際化対応を行いました。[Internationalization](https://n
 - テスト: Vitest、Testing Library
 - CI/CD: Vercel
 - 認証・認可: Clerk
-- その他: OpenAI API、S3
+- その他: OpenAI API、S3、Kysely
 
 #### 取り組んだ課題や成果
 
@@ -186,7 +186,7 @@ Next.js の 国際化対応を行いました。[Internationalization](https://n
 - テスト: Vitest、Testing Library
 - CI/CD: Vercel
 - 認証・認可: Clerk
-- その他: OpenAI API、S3
+- その他: OpenAI API、S3、Kysely
 
 #### 取り組んだ課題や成果
 
@@ -228,7 +228,7 @@ Kintone 上に SFA を構築。
 #### 技術・ツール
 
 - フロントエンド: Kintone、React、TypeScript、Vite
-- バックエンド: Node.js、Hono
+- バックエンド: Node.js、Hono、Kysely
 - データベース: PlanetScale
 - デプロイプラットフォーム: Fly.io
 - テスト: Vitest
@@ -264,7 +264,7 @@ Kintone 上でアプリを作成し、基幹システムとの連携や生成 AI
 #### 技術・ツール
 
 - フロントエンド: Slack
-- バックエンド: Node.js、TypeScript、Bolt
+- バックエンド: Node.js、TypeScript、Bolt、Kysely
 - データベース: PlanetScale
 - デプロイプラットフォーム: Fly.io
 - テスト: Vitest
